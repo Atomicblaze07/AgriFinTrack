@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # argifintrack_02
 
 A new Flutter project.
@@ -25,5 +24,3 @@ samples, guidance on mobile development, and a full API reference.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![SQLite](https://img.shields.io/badge/SQLite-sqflite%202.3-green.svg)](https://pub.dev/packages/sqflite)
 
-## 🎯 Problem Solved
->>>>>>> ef74d8f31276a08fc467d446167bdf997d07accd
